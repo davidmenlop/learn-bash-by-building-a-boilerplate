@@ -87,3 +87,5 @@ more README.md
 cd ..
 cd has
 ls --color=auto
+more license
+more LICENSE-MIT
